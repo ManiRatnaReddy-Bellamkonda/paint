@@ -1,3 +1,5 @@
+//Author:  Mani ; ID: C0887487
+
 let canvas = document.querySelector('#main');
 let context = canvas.getContext('2d');
 let radius;
